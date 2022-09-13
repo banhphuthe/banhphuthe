@@ -1,5 +1,5 @@
 discord: rokaviie#7462\
-website: [rokaviie.glitch.me](https://rokaviie.glitch.me/)
+website: <a href="https://rokaviie.glitch.me/" target=”_blank”>rokaviie.glitch.me</a>
 
 <p float="left">
   <img src="https://github.com/rokaviie/rokaviie/blob/main/flag-of-nz.png" alt="Flag of New Zealand" width="35" />
