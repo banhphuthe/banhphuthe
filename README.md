@@ -7,4 +7,4 @@ website: <a href="https://rokaviie.glitch.me/" target="_blank">rokaviie.glitch.m
   <img src="https://github.com/rokaviie/rokaviie/blob/main/flag-of-iran.png" alt="Flag of Iran" width="35" />
 </p>
 
-[![rokaviie's GitHub stats](https://github-readme-stats.vercel.app/api?username=rokaviie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rokaviie6&layout=compact&theme=radical)](https://github.com/rednek46)
