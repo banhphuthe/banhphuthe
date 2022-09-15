@@ -6,3 +6,5 @@ website: <a href="https://rokaviie.glitch.me/" target="_blank">rokaviie.glitch.m
   <img src="https://github.com/rokaviie/rokaviie/blob/main/flag-of-china.png" alt="Flag of China" width="35" />
   <img src="https://github.com/rokaviie/rokaviie/blob/main/flag-of-iran.png" alt="Flag of Iran" width="35" />
 </p>
+
+[![rokaviie's GitHub stats](https://github-readme-stats.vercel.app/api?username=rokaviie)](https://github.com/anuraghazra/github-readme-stats)
