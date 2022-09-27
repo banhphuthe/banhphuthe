@@ -1,5 +1,4 @@
 discord: rokaviie#7462\
-glitch: @rokaviie
 website: <a href="https://rokaviie.glitch.me/" target="_blank">rokaviie.glitch.me</a>
 
 <p float="left">
