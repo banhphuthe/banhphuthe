@@ -1,6 +1,3 @@
-discord: rokaviie#7462\
-website: <a href="https://rokaviie.glitch.me/" target="_blank">rokaviie.glitch.me</a>
-
 <p float="left">
   <img src="https://github.com/rokaviie/rokaviie/blob/main/flag-of-nz.png" alt=flag_nz" width="35" />
   <img src="https://github.com/rokaviie/rokaviie/blob/main/flag-of-china.png" alt="flag_cn" width="35" />
